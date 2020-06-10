@@ -1,0 +1,26 @@
+D:\MyProject\VISUAL STUDIO\VISUAL C# WPF PROJECT\Drag and Drop\Drag and Drop\bin\Debug\Drag and Drop.exe.config
+D:\MyProject\VISUAL STUDIO\VISUAL C# WPF PROJECT\Drag and Drop\Drag and Drop\bin\Debug\Drag and Drop.exe
+D:\MyProject\VISUAL STUDIO\VISUAL C# WPF PROJECT\Drag and Drop\Drag and Drop\bin\Debug\Drag and Drop.pdb
+D:\MyProject\VISUAL STUDIO\VISUAL C# WPF PROJECT\Drag and Drop\Drag and Drop\obj\Debug\Drag and Drop.csprojResolveAssemblyReference.cache
+D:\MyProject\VISUAL STUDIO\VISUAL C# WPF PROJECT\Drag and Drop\Drag and Drop\obj\Debug\MainWindow.baml
+D:\MyProject\VISUAL STUDIO\VISUAL C# WPF PROJECT\Drag and Drop\Drag and Drop\obj\Debug\MainWindow.g.cs
+D:\MyProject\VISUAL STUDIO\VISUAL C# WPF PROJECT\Drag and Drop\Drag and Drop\obj\Debug\App.g.cs
+D:\MyProject\VISUAL STUDIO\VISUAL C# WPF PROJECT\Drag and Drop\Drag and Drop\obj\Debug\Drag and Drop_MarkupCompile.cache
+D:\MyProject\VISUAL STUDIO\VISUAL C# WPF PROJECT\Drag and Drop\Drag and Drop\obj\Debug\Drag and Drop.g.resources
+D:\MyProject\VISUAL STUDIO\VISUAL C# WPF PROJECT\Drag and Drop\Drag and Drop\obj\Debug\Drag_and_Drop.Properties.Resources.resources
+D:\MyProject\VISUAL STUDIO\VISUAL C# WPF PROJECT\Drag and Drop\Drag and Drop\obj\Debug\Drag and Drop.csproj.GenerateResource.Cache
+D:\MyProject\VISUAL STUDIO\VISUAL C# WPF PROJECT\Drag and Drop\Drag and Drop\obj\Debug\Drag and Drop.exe
+D:\MyProject\VISUAL STUDIO\VISUAL C# WPF PROJECT\Drag and Drop\Drag and Drop\obj\Debug\Drag and Drop.pdb
+G:\MyProject\VISUAL STUDIO\VISUAL C# WPF PROJECT\Drag and Drop\Drag and Drop\bin\Debug\Drag and Drop.exe.config
+G:\MyProject\VISUAL STUDIO\VISUAL C# WPF PROJECT\Drag and Drop\Drag and Drop\obj\Debug\Drag and Drop.exe
+G:\MyProject\VISUAL STUDIO\VISUAL C# WPF PROJECT\Drag and Drop\Drag and Drop\obj\Debug\Drag and Drop.pdb
+G:\MyProject\VISUAL STUDIO\VISUAL C# WPF PROJECT\Drag and Drop\Drag and Drop\bin\Debug\Drag and Drop.exe
+G:\MyProject\VISUAL STUDIO\VISUAL C# WPF PROJECT\Drag and Drop\Drag and Drop\bin\Debug\Drag and Drop.pdb
+G:\MyProject\VISUAL STUDIO\VISUAL C# WPF PROJECT\Drag and Drop\Drag and Drop\obj\Debug\Drag and Drop.csprojResolveAssemblyReference.cache
+G:\MyProject\VISUAL STUDIO\VISUAL C# WPF PROJECT\Drag and Drop\Drag and Drop\obj\Debug\MainWindow.baml
+G:\MyProject\VISUAL STUDIO\VISUAL C# WPF PROJECT\Drag and Drop\Drag and Drop\obj\Debug\MainWindow.g.cs
+G:\MyProject\VISUAL STUDIO\VISUAL C# WPF PROJECT\Drag and Drop\Drag and Drop\obj\Debug\App.g.cs
+G:\MyProject\VISUAL STUDIO\VISUAL C# WPF PROJECT\Drag and Drop\Drag and Drop\obj\Debug\Drag and Drop_MarkupCompile.cache
+G:\MyProject\VISUAL STUDIO\VISUAL C# WPF PROJECT\Drag and Drop\Drag and Drop\obj\Debug\Drag and Drop.g.resources
+G:\MyProject\VISUAL STUDIO\VISUAL C# WPF PROJECT\Drag and Drop\Drag and Drop\obj\Debug\Drag_and_Drop.Properties.Resources.resources
+G:\MyProject\VISUAL STUDIO\VISUAL C# WPF PROJECT\Drag and Drop\Drag and Drop\obj\Debug\Drag and Drop.csproj.GenerateResource.Cache
